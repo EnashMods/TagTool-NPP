@@ -1,2 +1,1 @@
-# TagTool-NPP
-Notepad++ Language and Auto Completion files for Tagtool Scripts
+This is syntax highlighting, block grouping, and auto completion for TagTool command scripts for Notepad++. Originally authored by ButReallyTho, the author has not been reachable for years and these files greatly benefit TagTool users so I have decided to open source them for the benefit of the community.
